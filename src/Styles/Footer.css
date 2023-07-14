@@ -1,0 +1,11 @@
+.Footer_Main_Box{
+    background-image: url(../Images/Footer_Background_image.png);
+    background-size: cover;
+    background-position: 100%;
+    padding-bottom: 26px;
+    position: relative;
+    z-index: 1;
+    background-repeat: no-repeat;
+    flex-wrap: wrap;
+    padding-top: 2rem;
+}
